@@ -6,7 +6,7 @@ Miraculum is an interactive game that can be played on your computer. To run the
 
 First, you need to clone the project from the GitHub repository. To do this, open a terminal or command prompt and run the following command:
 
-``` git clone https://github.com/dorian-grst/Miraculum.git ```
+``` git clone https://github.com/kurama/Miraculum.git ```
 
 ### 2. Navigate to the Game File
 
